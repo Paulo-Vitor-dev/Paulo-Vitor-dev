@@ -40,119 +40,18 @@ Me chamo Paulo Vitor Brandão de Santana, tenho 22 anos e sou natural do Rio de 
    ### 🤖 Linguagens e Tecnologias
 
 
-<img 
-    align="left"
-    alt="HTML"
-    title="HTML"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
-<img 
-    align="left"
-    alt="REACT"
-    title="REACT"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left"
-    alt="JavaScript"
-    title="JavaScript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left"
-    alt="TypeScript"
-    title="TypeScript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-<img 
-    align="left"
-    alt="TailwindCss"
-    title="TailwindCss"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left"
-    alt="NEXTJS"
-    title="NEXTJS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left"
-    alt="JAVA"
-    title="JAVA"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>   
-<img 
-    align="left"
-    alt="Python"
-    title="Python"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left"
-    alt="Git"
-    title="Git"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left"
-    alt="Figma"
-    title="Figma"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
-/>
-<img 
-    align="left"
-    alt="Postgre"
-    title="Postgre"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-/>
-<img 
-    align="left"
-    alt="SQL"
-    title="SQL"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
-/>
-<img 
-    align="left"
-    alt="MySQL"
-    title="MySQL"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>           
+<p align="left">
+  <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Tailwind" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="NextJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</p>           
 
 <br>
 <br>
