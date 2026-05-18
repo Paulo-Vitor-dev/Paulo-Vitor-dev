@@ -62,14 +62,14 @@ Me chamo Paulo Vitor Brandão de Santana, tenho 22 anos e sou natural do Rio de 
 
 
 ### 📊 Estatísticas
-<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<p align="center">
   <img 
-    height="180" 
+    height="180em" 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=paulo-vitor-dev&show_icons=true&theme=tokyonight&locale=pt-br"
   />
-
+  
   <img 
-    height="180" 
+    height="180em" 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paulo-vitor-dev&layout=compact&theme=tokyonight&locale=pt-br"
   />
 </p>
