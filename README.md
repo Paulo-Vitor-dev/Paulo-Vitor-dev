@@ -20,12 +20,12 @@ Me chamo Paulo Vitor Brandão de Santana, tenho 22 anos e sou natural do Rio de 
    />
 </a>
     <a href="https://github.com/Paulo-Vitor-Dev?tab=followers">
-     <img 
-         alt="Seguidores" 
-         title="Me siga no Github" 
-         src="https://custom-icon-badges.demolab.com/github/followers/Paulo-Vitor-Dev?color=white&labelColor=black&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-      />
-    </a>
+  <img 
+    alt="Seguidores" 
+    title="Me siga no GitHub" 
+    src="https://custom-icon-badges.demolab.com/github/followers/paulo-vitor-dev?color=white&labelColor=black&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+  />
+</a>
     <a href="https://github.com/Paulo-Vitor-Dev?tab=repositories&sort=stargazers">
       <img 
          alt="Total de estrelas" 
