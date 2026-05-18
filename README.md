@@ -46,7 +46,7 @@ Me chamo Paulo Vitor Brandão de Santana, tenho 22 anos e sou natural do Rio de 
   <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Tailwind" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Tailwind" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="NextJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -62,8 +62,14 @@ Me chamo Paulo Vitor Brandão de Santana, tenho 22 anos e sou natural do Rio de 
 
 
 ### 📊 Estatísticas
-<p >
-  <img align="left" height="180" style="padding-right: 10px;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=paulo-vitor-dev&show_icons=true&theme=tokyonight"/>
+<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img 
+    height="180" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=paulo-vitor-dev&show_icons=true&theme=tokyonight&locale=pt-br"
+  />
 
-  <img align="left" height="200" style="padding-right: 10px;" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paulo-vitor-dev&layout=compact&theme=tokyonight"/>
+  <img 
+    height="180" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paulo-vitor-dev&layout=compact&theme=tokyonight&locale=pt-br"
+  />
 </p>
