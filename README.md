@@ -2,7 +2,7 @@
 
 **``Desenvolvedor FullStack``**
 
-Me chamo Paulo Vitor Brandão de Santana, tenho 22 anos e sou natural do Rio de Janeiro. Concluí o ensino médio no Colégio Militar do Rio de Janeiro, Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UVA. Sou um amante e entusiasta da Tecnologia que se dedica todos os dias pra se manter atualizado, obtendo conhecimentos e experiencias para ser um desenvolvedor cada dia melhor, e poder impctar o mundo de alguma forma com a ajuda da tecnologia!  
+Me chamo Paulo Vitor Brandão de Santana, tenho 22 anos e sou natural do Rio de Janeiro. Concluí o ensino médio no Colégio Militar do Rio de Janeiro, Atualmente estou cursando Análise e Desenvolvimento de Sistemas na UVA. Sou um amante e entusiasta da Tecnologia que se dedica todos os dias pra se manter atualizado, obtendo conhecimentos e experiencias para ser um desenvolvedor cada dia melhor, e poder impctar o mundo de alguma forma com a ajuda da tecnologia!! 
 
  <p align="left">
  <a href="https://www.linkedin.com/in/paulovitor-dev-fullstack/">
