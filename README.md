@@ -102,9 +102,16 @@ Portfólio web interativo desenvolvido para apresentar minha trajetória, projet
 
 ### 📊 Atividade no GitHub
 
-<p align="left">
-  <img 
+<p align="center">
+  <img
     src="https://streak-stats.demolab.com?user=Paulo-Vitor-dev&theme=github-dark-blue&hide_border=true&locale=pt_BR"
     alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Paulo-Vitor-dev&theme=github-compact&hide_border=true"
+    alt="Gráfico de atividade no GitHub"
   />
 </p>
